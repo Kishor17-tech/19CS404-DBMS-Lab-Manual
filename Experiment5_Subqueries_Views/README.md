@@ -1,6 +1,6 @@
 # Experiment 5: Subqueries and Views
 
-## AIM
+## AIM 
 To study and implement subqueries and views.
 
 ## THEORY
